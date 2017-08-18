@@ -12,7 +12,7 @@ namespace WebApplication22.Controllers
     {
         public IActionResult Index()
         {
-            return Content("1");
+            return Content("2");
             //return Content("hello rupeng");
             //return View();
         }
